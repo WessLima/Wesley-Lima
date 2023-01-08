@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Analise e Desenvolvimento de Sistemas
 - 🌱  Meu foco é  back-end
-- 👯  Contate-me: WesleyProfissional_07@outlook.
+- 👯  Contate-me: WesleyProfissional_07@outlook.com
 
 
 
