@@ -1,7 +1,7 @@
 ### Hi there, meu nome é Wesley Lima!
 
 - 🔭 Cursando Analise e Desenvolvimento de Sistemas
-- 🌱  Meu foco é Front-end
+- 🌱  Meu foco é  back-end
 - 👯  Contate-me: WesleyProfissional_07@outlook.
 
 
